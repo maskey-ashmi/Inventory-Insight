@@ -1,0 +1,1 @@
+CREATE TABLE products (id INT AUTO_INCREMENT PRIMARY KEY,category VARCHAR(255), name VARCHAR(255),units INT,cost_price DOUBLE,selling_price DOUBLE);

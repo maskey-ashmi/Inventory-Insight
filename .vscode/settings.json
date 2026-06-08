@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        ".",
+        "InventoryInsight\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "InventoryInsight\\lib\\mysql-connector-j-9.1.0\\mysql-connector-j-9.1.0.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
